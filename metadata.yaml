@@ -1,0 +1,48 @@
+_repo: The-Divine-Comedy-by-Dante-Illustrated-Purgatory-Volume-5_8794
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dorè, Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translator:
+    agent_name: Cary, Henry Francis
+    alias: Cary, H. F. (Henry Francis)
+    birthdate: 1772
+    deathdate: 1844
+    gutenberg_agent_id: '3622'
+    url: http://www.gutenberg.org/2009/agents/3622
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Francis_Cary
+creator:
+  author:
+    agent_name: Dante Alighieri
+    alias: Alighieri, Dante
+    birthdate: 1265
+    deathdate: 1321
+    gutenberg_agent_id: '507'
+    url: http://www.gutenberg.org/2009/agents/507
+    wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
+description: ''
+gutenberg_issued: '2004-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry -- To 1400 -- Translations into English'
+- !lcsh 'Epic poetry, Italian -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: The Divine Comedy by Dante, Illustrated, Purgatory, Volume 5
+url: http://www.gutenberg.org/ebooks/8794
