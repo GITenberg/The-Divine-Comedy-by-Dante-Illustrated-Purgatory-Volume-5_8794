@@ -1,5 +1,5 @@
 _repo: The-Divine-Comedy-by-Dante-Illustrated-Purgatory-Volume-5_8794
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Doré, Gustave
@@ -21,6 +21,9 @@ contributor:
     gutenberg_agent_id: '3622'
     url: http://www.gutenberg.org/2009/agents/3622
     wikipedia: http://en.wikipedia.org/wiki/Henry_Francis_Cary
+covers:
+- cover_type: archival
+  image_path: 8794-h/images/coverth.jpg
 creator:
   author:
     agent_name: Dante Alighieri
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/507
     wikipedia: http://en.wikipedia.org/wiki/Dante_Alighieri
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8794#The-Divine-Comedy-by-Dante-Illustrated-Purgatory-Volume-5
 gutenberg_issued: '2004-08-05'
 gutenberg_type: Text
 identifiers:
